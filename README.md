@@ -33,6 +33,6 @@ Actualmente profundizando en:
 Estoy abierto a colaboraciones en proyectos de impacto social, open source o nuevas oportunidades tecnológicas.
 
 - **GitHub:** [nelsonriveradev](https://github.com/nelsonriveradev)
-- **Portafolio:** [Tu Enlace Aquí]
+
 
 *¡Dándole vida a las ideas a través del código!* 💻✨
